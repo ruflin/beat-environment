@@ -1,0 +1,3 @@
+[submodule "topbeat"]
+	path = topbeat
+	url = https://github.com/elastic/topbeat.git
